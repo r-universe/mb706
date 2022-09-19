@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mlrintermbo",
+    "oncran": true
+  }
+]
