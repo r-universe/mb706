@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mlrintermbo"]
-	path = mlrintermbo
-	url = https://github.com/mb706/mlrintermbo
-	shallow = true
-	registered = true
